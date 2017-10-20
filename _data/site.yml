@@ -17,10 +17,10 @@ img:
    avatar: "https://ooo.0o0.ooo/2017/05/26/5928368d409dd.png" # your avatar
 
 card: 
-   card_shadow: 1 # card shadow (0-24), 0 is not displayed
+   card_shadow: 12 # card shadow (0-24), 0 is not displayed
    card_hoverable: false # When the hover to deepen the shadow
 
-many_authors: false
+many_authors: true
 
 sns_share: # SNS Share Switch
    twitter: true
