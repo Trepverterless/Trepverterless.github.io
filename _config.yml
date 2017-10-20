@@ -1,43 +1,22 @@
-# Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
 
-# User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+title: My Resume # your title
+url: 'http://junlulocky.com'
+baseurl: '/online-cv' #change it according to your repository name
 
-# Social Media
-# Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: /:title/
 
-# Plugins
-gems:
-  - jemoji
+# Profile information
+yourname: Brown Smith  ## put your name
+location: San Francisco , CA
 
-# Links to include in menu navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Contact
-    url: /contact/
 
-# Exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+## Social Profiles
+facebook: http://www.facebook.com  ## your facebook account url
+twitter: http://www.twitter.com  ## your twitter account url
+linkedin: http://www.linkedin.com  ## your linkedin account url
+dribbble: http://www.dribble.com  ## you dribbble account url
+foursquare: http://www.foursquare.com  ## your foursquare account url
+
+
+
+# Update all the sections by editing the files inside _includes folder.
