@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll Theme MDUI Editor
+title: 论守塔与补兵
 date: 2017-10-21 0:0:0 +0800
 categories: Living
 tags: jekyll
@@ -19,4 +19,4 @@ img: https://ooo.0o0.ooo/2017/05/30/592d41ed710a5.jpg
 
 ## 测试图片
 
-[ice](/assets/imgages/ice and fire.jpg)
+![](assets/images/ice and fire.jpg)
