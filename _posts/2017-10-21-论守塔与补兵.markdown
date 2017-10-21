@@ -1,0 +1,22 @@
+---
+layout: post
+title: Jekyll Theme MDUI Editor
+date: 2017-10-21 0:0:0 +0800
+categories: Living
+tags: jekyll
+img: https://ooo.0o0.ooo/2017/05/30/592d41ed710a5.jpg
+---
+学好守塔与补兵上王者不是梦。
+
+* 
+{:toc}
+
+## 技巧
+
+1. 不要瞎补
+2. 不要强守
+
+
+## 测试图片
+
+[ice](/assets/imgages/ice and fire.jpg)

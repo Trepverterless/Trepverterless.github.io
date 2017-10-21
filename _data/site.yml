@@ -29,7 +29,7 @@ sns_share: # SNS Share Switch
    weibo: true
    linkedin: false
    qq: true
-   telegram: true
+   telegram: false
   
 comment:
   used: "" # disqus,livere,gitment,valine
