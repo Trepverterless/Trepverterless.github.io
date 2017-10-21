@@ -18,7 +18,7 @@ img:
 
 card: 
    card_shadow: 12 # card shadow (0-24), 0 is not displayed
-   card_hoverable: false # When the hover to deepen the shadow
+   card_hoverable: true # When the hover to deepen the shadow
 
 many_authors: false
 
