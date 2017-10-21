@@ -22,7 +22,7 @@ header: # Meng header color + theme-color
 
 background: # Meng background
   switch: true
-  background_img: '/assets/imgages/iceandfire.jpg'
+  background_img: https://github.com/Trepverterless/Trepverterless.github.io/raw/master/assets/images/iceandfire.jpg
   transparent_header: true
   transparent_footer: false
   text_color: '#000'
