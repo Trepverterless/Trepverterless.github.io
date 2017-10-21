@@ -63,7 +63,7 @@ music_player:
       url: 'assets/music/wuli.mp3'
       pic: 'http://img4.kuwo.cn/star/starheads/240/72/35/3484765923.jpg'
 head_card:
-  switch: true
+  switch: flase
   left_img: "https://ooo.0o0.ooo/2017/06/19/5947b272d418b.jpg"
   left_text: "『 I belive 』"
   right_img: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png"
