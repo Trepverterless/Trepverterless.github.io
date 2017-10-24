@@ -2,7 +2,7 @@
   url: 
 
 - name: facebook
-  url: 
+  url: https://facebook.com
 
 - name: github
   url: https://github.com
@@ -17,7 +17,7 @@
   url: 
 
 - name: telegram
-  url: https://web.telegram.org
+  url: 
 
 - name: tumblr
   url: 

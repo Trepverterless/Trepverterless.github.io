@@ -6,7 +6,7 @@ title:  # Meng title
   reset_time: 1000 # If state is visible , reset default title times(ms)
 
 cursor: # Meng cursor
-  switch: false # Meng cursor switch
+  switch: true # Meng cursor switch
   auto_url: "https://ooo.0o0.ooo/2017/06/12/593ea1901c930.png" # State is auto style
   pointer_url: "https://ooo.0o0.ooo/2017/06/12/593ea3612fd77.png" # State is pointer style
 
@@ -24,7 +24,7 @@ background: # Meng background
   switch: true
   background_img: https://github.com/Trepverterless/Trepverterless.github.io/raw/master/assets/images/iceandfire.jpg
   transparent_header: true
-  transparent_footer: false
+  transparent_footer: true
   text_color: '#000'
 
 card: # Meng card
@@ -37,8 +37,8 @@ live2d: # live2d ,see https://github.com/EYHN/hexo-helper-live2d
   model: "/assets/koharu/koharu.model.json" # model.json path
   drag: true # is drag ?
   in_mobile: false
-  width: 130 # canvas width
-  height: 190 # canvas height
+  width: 10% # canvas width
+  height: 15% # canvas height
   bottom: 100 # canvas bottom
   leftOrRight: "right" # left or right
   offset: 10 # offset
