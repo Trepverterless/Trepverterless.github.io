@@ -6,7 +6,7 @@ title:  # Meng title
   reset_time: 1000 # If state is visible , reset default title times(ms)
 
 cursor: # Meng cursor
-  switch: true # Meng cursor switch
+  switch: false # Meng cursor switch
   auto_url: "https://ooo.0o0.ooo/2017/06/12/593ea1901c930.png" # State is auto style
   pointer_url: "https://ooo.0o0.ooo/2017/06/12/593ea3612fd77.png" # State is pointer style
 
@@ -30,7 +30,7 @@ background: # Meng background
 card: # Meng card
   switch: true
   background_color: 'rgba(255, 255, 255, 0.5)'
-  card_img_opacity: '0.4'
+  card_img_opacity: '0.8'
 
 live2d: # live2d ,see https://github.com/EYHN/hexo-helper-live2d
   switch: true
