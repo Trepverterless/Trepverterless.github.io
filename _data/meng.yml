@@ -37,8 +37,8 @@ live2d: # live2d ,see https://github.com/EYHN/hexo-helper-live2d
   model: "/assets/koharu/koharu.model.json" # model.json path
   drag: true # is drag ?
   in_mobile: false
-  width: 10% # canvas width
-  height: 15% # canvas height
+  width: 130 # canvas width
+  height: 190 # canvas height
   bottom: 100 # canvas bottom
   leftOrRight: "right" # left or right
   offset: 10 # offset
