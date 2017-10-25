@@ -1,7 +1,7 @@
 head: 
-   favicon: "https://ooo.0o0.ooo/2017/05/27/59294212bc16e.png" #  the favicon
-   high_res_favicon: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png" #  the favicon using high quality format
-   apple_touch_icon: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png" # the iOS Home button icon
+   favicon: "https://github.com/Trepverterless/Trepverterless.github.io/raw/master/assets/images/author.png" #  the favicon
+   high_res_favicon: "https://github.com/Trepverterless/Trepverterless.github.io/raw/master/assets/images/touch/chrome-touch-icon-192x192.png" #  the favicon using high quality format
+   apple_touch_icon: "https://github.com/Trepverterless/Trepverterless.github.io/raw/master/assets/images/touch/chrome-touch-icon-192x192.png" # the iOS Home button icon
    keywords: "blog jekyll mdui theme" #  the site keywords
 
 uiux:
@@ -17,7 +17,7 @@ img:
    avatar: "https://github.com/Trepverterless/Trepverterless.github.io/raw/master/assets/images/author.png" # your avatar
 
 card: 
-   card_shadow: 1 # card shadow (0-24), 0 is not displayed
+   card_shadow: 24 # card shadow (0-24), 0 is not displayed
    card_hoverable: true # When the hover to deepen the shadow
 
 many_authors: false
