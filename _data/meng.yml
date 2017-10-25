@@ -18,7 +18,7 @@ console: # Meng console info
   background: "#448aff" # background color
 
 header: # Meng header color + theme-color
-  switch: true
+  switch: false
 
 background: # Meng background
   switch: true
@@ -28,7 +28,7 @@ background: # Meng background
   text_color: '#000'
 
 card: # Meng card
-  switch: false
+  switch: true
   background_color: 'rgba(255, 255, 255, 0.5)'
   card_img_opacity: '0.7'
 
