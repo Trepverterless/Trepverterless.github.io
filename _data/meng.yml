@@ -30,13 +30,13 @@ background: # Meng background
 card: # Meng card
   switch: true
   background_color: 'rgba(255, 255, 255, 0.5)'
-  card_img_opacity: '0.8'
+  card_img_opacity: '0.6'
 
 live2d: # live2d ,see https://github.com/EYHN/hexo-helper-live2d
   switch: true
   model: "/assets/koharu/koharu.model.json" # model.json path
   drag: true # is drag ?
-  in_mobile: false
+  in_mobile: true
   width: 130 # canvas width
   height: 190 # canvas height
   bottom: 100 # canvas bottom
