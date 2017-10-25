@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll 搭建 github 博客
-date: 2017-5-30 0:0:0 +0800
+date: 2017-10-25 0:0:0 +0800
 categories: technology
 tags: jekyll github 博客
 img: https://ooo.0o0.ooo/2017/05/30/592d41ed710a5.jpg
