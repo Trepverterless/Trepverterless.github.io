@@ -3,14 +3,15 @@ layout: post
 title: Jekyll 搭建 github 博客
 date: 2017-5-30 0:0:0 +0800
 categories: technology
-tags: mdui jekyll github 博客
+tags: jekyll github 博客
 img: https://ooo.0o0.ooo/2017/05/30/592d41ed710a5.jpg
 ---
 jikell+github免费搭建个人博客
+
 * 
 {:toc}
 
-#申请github账号
+#申请github账号  
 ##关于GitHub
 1. github pages有300M免费空间；
 2. 学着用github，享受github的便利，上面有很多大牛，眼界会开阔很多；
