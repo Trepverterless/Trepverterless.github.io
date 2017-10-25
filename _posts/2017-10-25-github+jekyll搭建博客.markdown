@@ -4,9 +4,9 @@ title: Jekyll 搭建 github 博客
 date: 2017-10-25 0:0:0 +0800
 categories: technology
 tags: jekyll github 博客
-img: https://ooo.0o0.ooo/2017/05/30/592d41ed710a5.jpg
+img: https://ooo.0o0.ooo/2017/05/27/5929234e802ca.jpg
 ---
-jikell+github免费搭建个人博客
+# jikell+github免费搭建个人博客 #
 
 * 
 {:toc}
