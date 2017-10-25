@@ -3,8 +3,8 @@ layout: post
 title: 论守塔与补兵
 date: 2017-10-21 0:0:0 +0800
 categories: Living
-tags: jekyll
-img: assets/images/posts/post1.png
+tags: game
+img: https://github.com/Trepverterless/Trepverterless.github.io/raw/master/assets/images/posts/post1.png
 ---
 学好守塔与补兵上王者不是梦。
 

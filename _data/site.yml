@@ -17,7 +17,7 @@ img:
    avatar: "https://github.com/Trepverterless/Trepverterless.github.io/raw/master/assets/images/author.png" # your avatar
 
 card: 
-   card_shadow: 24 # card shadow (0-24), 0 is not displayed
+   card_shadow: 1 # card shadow (0-24), 0 is not displayed
    card_hoverable: true # When the hover to deepen the shadow
 
 many_authors: false
