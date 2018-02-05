@@ -13,8 +13,7 @@ img: https://github.com/Trepverterless/Trepverterless.github.io/raw/master/asset
 
 ## 技巧
 
-1. 不要瞎补
-2. 不要强守
+
 
 
 ## 测试图片
