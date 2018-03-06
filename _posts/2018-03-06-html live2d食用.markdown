@@ -19,7 +19,8 @@ Live2D是一种应用于电子游戏的绘图渲染技术，技术由日本Cyber
 
 ## WebGL实现live2d
 
-html现在支持引入live2d**老婆**了=v=, 官方也给出了sdk</br>
+html现在支持引入live2d**老婆**了=v=, 官方也给出了sdk
+
 官方：[http://www.live2d.com/en/">http://www.live2d.com/en/](http://www.live2d.com/en/">http://www.live2d.com/en/)
 
 sdk下载：[https://link.zhihu.com/?target=http%3A//app2.live2d.com/cubism/sdk/bowiuex/webgl/Live2D_SDK_WebGL_2.0.05_1_en.zip](https://link.zhihu.com/?target=http%3A//app2.live2d.com/cubism/sdk/bowiuex/webgl/Live2D_SDK_WebGL_2.0.05_1_en.zip)
