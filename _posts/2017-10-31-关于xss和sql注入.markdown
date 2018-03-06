@@ -6,7 +6,7 @@ categories: technology
 tags: xss sql
 img: https://ooo.0o0.ooo/2017/05/27/5929234e802ca.jpg
 ---
-# 关于xss注入和sql注入
+# 关于xss注入和sql注入 #
 * 
 {:toc}
 

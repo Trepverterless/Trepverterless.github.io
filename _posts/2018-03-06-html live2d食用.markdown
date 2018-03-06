@@ -15,15 +15,22 @@ img: https://github.com/Trepverterless/Trepverterless.github.io/raw/master/asset
 Live2D是一种应用于电子游戏的绘图渲染技术，技术由日本Cybernoids公司开发。通过一系列的连续图像和人物建模来生成一种类似三维模型的二维图像，对于以动画风格为主的冒险游戏来说非常有用，缺点是Live 2D人物无法大幅度转身，[ConnorLin's Blog]开发商正设法让该技术可显示360度图像。
 
 # html live2d
+
 ## WebGL实现live2d
+
 html现在支持引入live2d**老婆**了=v=, 官方也给出了sdk</br>
-官方：<a herf="http://www.live2d.com/en/">http://www.live2d.com/en/</a></br>
-sdk下载：<a herf="https://link.zhihu.com/?target=http%3A//app2.live2d.com/cubism/sdk/bowiuex/webgl/Live2D_SDK_WebGL_2.0.05_1_en.zip">https://link.zhihu.com/?target=http%3A//app2.live2d.com/cubism/sdk/bowiuex/webgl/Live2D_SDK_WebGL_2.0.05_1_en.zip</a>
+官方：[http://www.live2d.com/en/">http://www.live2d.com/en/](http://www.live2d.com/en/">http://www.live2d.com/en/)
+
+sdk下载：[https://link.zhihu.com/?target=http%3A//app2.live2d.com/cubism/sdk/bowiuex/webgl/Live2D_SDK_WebGL_2.0.05_1_en.zip"](https://link.zhihu.com/?target=http%3A//app2.live2d.com/cubism/sdk/bowiuex/webgl/Live2D_SDK_WebGL_2.0.05_1_en.zip)
+
 ## WebGL实现原理分析
+
 * 主要依赖两个live2d.min.js和live2dframework.js这两个文件
 * 依赖上面两个文件来部署live2d模型，模型文件包括model.moc文件模型相当与身体，textures里面的png图片是衣服，还有motions文件里面的.mtn文件（模型的动作）。json里面储存模型对应的数据和动作表达信息。
 * 要部署到网页上还要有js文件来加载模型和动作的触发
+* 
 ## html食用方法
+
 只需要把js链接到html上，使用  ```  <canvas id=" " width=" " height=" "></canvas>
 ```
 即可
