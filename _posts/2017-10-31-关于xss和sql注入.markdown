@@ -4,9 +4,10 @@ title: 关于xss注入和sql注入
 date: 2017-10-31 0:0:0 +0800
 categories: technology
 tags: xss sql
-img: https://ooo.0o0.ooo/2017/05/27/5929234e802ca.jpg
+img: https://github.com/Trepverterless/Trepverterless.github.io/raw/master/assets/images/posts/xss.jpg
 ---
 # 关于xss注入和sql注入 #
+
 * 
 {:toc}
 

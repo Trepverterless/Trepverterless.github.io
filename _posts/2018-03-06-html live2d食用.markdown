@@ -8,6 +8,7 @@ img: https://github.com/Trepverterless/Trepverterless.github.io/raw/master/asset
 ---
 # 关于live2d 看板娘  #
 
+* 
 {:toc}
 
 # 关于live2d
@@ -21,12 +22,12 @@ Live2D是一种应用于电子游戏的绘图渲染技术，技术由日本Cyber
 html现在支持引入live2d**老婆**了=v=, 官方也给出了sdk</br>
 官方：[http://www.live2d.com/en/">http://www.live2d.com/en/](http://www.live2d.com/en/">http://www.live2d.com/en/)
 
-sdk下载：[https://link.zhihu.com/?target=http%3A//app2.live2d.com/cubism/sdk/bowiuex/webgl/Live2D_SDK_WebGL_2.0.05_1_en.zip"](https://link.zhihu.com/?target=http%3A//app2.live2d.com/cubism/sdk/bowiuex/webgl/Live2D_SDK_WebGL_2.0.05_1_en.zip)
+sdk下载：[https://link.zhihu.com/?target=http%3A//app2.live2d.com/cubism/sdk/bowiuex/webgl/Live2D_SDK_WebGL_2.0.05_1_en.zip](https://link.zhihu.com/?target=http%3A//app2.live2d.com/cubism/sdk/bowiuex/webgl/Live2D_SDK_WebGL_2.0.05_1_en.zip)
 
 ## WebGL实现原理分析
 
 * 主要依赖两个live2d.min.js和live2dframework.js这两个文件
-* 依赖上面两个文件来部署live2d模型，模型文件包括model.moc文件模型相当与身体，textures里面的png图片是衣服，还有motions文件里面的.mtn文件（模型的动作）。json里面储存模型对应的数据和动作表达信息。
+* 依赖上面两个文件来部署live2d模型，模型文件包括model.moc文件模型相当与身体，textures里面的png图片是衣服，还有motions文件里面的.mtn文件（模型的动作）。json用于存储模型名字，指示模型与贴图、动作的关系等。
 * 要部署到网页上还要有js文件来加载模型和动作的触发
 * 
 ## html食用方法
