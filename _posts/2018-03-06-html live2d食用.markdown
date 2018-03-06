@@ -6,7 +6,7 @@ categories: technology
 tags: live2d html
 img: https://github.com/Trepverterless/Trepverterless.github.io/raw/master/assets/images/posts/live2d.jpg
 ---
-# 关于live2d 看板娘 #
+# 关于live2d 看板娘
 
 * 
 {:toc}
