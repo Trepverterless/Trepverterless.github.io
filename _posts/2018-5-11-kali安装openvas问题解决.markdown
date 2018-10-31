@@ -4,7 +4,7 @@ title: 论守塔与补兵
 date: 2018-5-21 0:0:0 +0800
 categories: technology
 tags: kali openvas
-img: https://github.com/Trepverterless/Trepverterless.github.io/raw/master/assets/images/posts/post1.png
+img: https://github.com/Trepverterless/Trepverterless.github.io/raw/master/assets/images/posts/post180521.png
 ---
 kali安装openvas中的一些问题及解决方法
 
